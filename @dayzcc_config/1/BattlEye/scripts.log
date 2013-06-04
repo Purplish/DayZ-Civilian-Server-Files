@@ -1,0 +1,47 @@
+04.06.2013 14:48:06: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #138 "ormat ['%1: missionName=%2, worldName=%3, isMultiplayer=%4, isServer=%5, isDedicated=%6', "MISSINIT", if (isNil{missionName}) th"
+04.06.2013 14:48:06: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #13 "se { _this call cba_fnc_addMagazineVerified }; 	};
+		cba_fCreateMarker = { 		["x\cba\addons\common\XEH_preInit.sqf", 104, ('WARN"
+04.06.2013 14:48:06: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #114 "apon } else { _this call cba_fnc_addWeapon }; 	};
+		cba_fAddWeaponCargo = { 		["x\cba\addons\common\XEH_preInit.sqf", 79, ('WARN"
+04.06.2013 14:48:56: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #138 "" createVehicleLocal [0, 0];
+CBA_EVENTS_DONE = false;
+
+
+if (isServer || alive player) then {
+
+"CBA_e" addPublicVariableEventHand"
+04.06.2013 14:48:56: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #2 "(count _x != 1) then {
+;
+_x set [0, (findDisplay 46) displayAddEventHandler [_key, _x select 1]];
+};
+} forEach _value;
+};
+
+CBA_E"
+04.06.2013 14:48:56: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #35 "if !(isMultiplayer) then { { (findDisplay 46) displayRemoveAllEventHandlers _x } forEach ["KeyUp", "KeyDown"] };
+
+
+
+
+
+
+
+
+if (isS"
+04.06.2013 14:48:56: Nipple Breath (192.168.1.10:2316) 0c8803f978e6a633d34e186f323d3307 - #126 "\cba\addons\events\XEH_preClientInit.sqf"
+
+
+
+
+;
+
+
+["CBA_playerSpawn", {  }] call CBA_fnc_addEventHandler;
+
+SLX_XEH_STR spawn {
+p"
+04.06.2013 14:49:09: Stunner (70.15.42.135:2304) ff077b07c3d9f2e8219dbdd17be7441e - #138 "ormat ['%1: missionName=%2, worldName=%3, isMultiplayer=%4, isServer=%5, isDedicated=%6', "MISSINIT", if (isNil{missionName}) th"
+04.06.2013 14:49:09: Stunner (70.15.42.135:2304) ff077b07c3d9f2e8219dbdd17be7441e - #13 "se { _this call cba_fnc_addMagazineVerified }; 	};
+		cba_fCreateMarker = { 		["x\cba\addons\common\XEH_preInit.sqf", 104, ('WARN"
+04.06.2013 14:49:09: Stunner (70.15.42.135:2304) ff077b07c3d9f2e8219dbdd17be7441e - #114 "apon } else { _this call cba_fnc_addWeapon }; 	};
+		cba_fAddWeaponCargo = { 		["x\cba\addons\common\XEH_preInit.sqf", 79, ('WARN"

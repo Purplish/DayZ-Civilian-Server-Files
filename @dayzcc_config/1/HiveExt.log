@@ -1,0 +1,687 @@
+2013-06-04 14:46:10 HiveExt: [Information] HiveExt 0.9.8.2 [DayZ Server Controlcenter]
+2013-06-04 14:46:11 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 14:46:11 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 14:46:11 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 14:46:11 HiveExt: [Information] Result: ["ObjectStreamStart",0,"0095e93ecc88418de84595a95ec435d1"]
+2013-06-04 14:46:11 HiveExt: [Information] Method: 307 Params: 
+2013-06-04 14:46:11 HiveExt: [Information] Result: ["PASS",[2013,6,4,14,46]]
+2013-06-04 14:51:39 HiveExt: [Information] HiveExt 0.9.8.2 [DayZ Server Controlcenter]
+2013-06-04 14:51:39 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 14:51:39 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 14:51:39 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 14:51:39 HiveExt: [Information] Result: ["ObjectStreamStart",0,"fe38a8a878bf0983d546b3fef0d49c65"]
+2013-06-04 14:51:39 HiveExt: [Information] Method: 307 Params: 
+2013-06-04 14:51:39 HiveExt: [Information] Result: ["PASS",[2013,6,4,14,51]]
+2013-06-04 14:52:25 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 14:52:25 HiveExt: [Information] Created a new player 121875654 named 'Nipple Breath'
+2013-06-04 14:52:25 HiveExt: [Information] Created a new character 1 for player 'Nipple Breath' (121875654)
+2013-06-04 14:52:25 HiveExt: [Information] Result: ["PASS",true,"1",[],[],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[0,0,0],"",0.96]
+2013-06-04 14:52:26 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 14:52:26 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0],[0,0,0,0],["","aidlpercmstpsnonwnondnon_player_idlesteady04",36],[],2500]
+2013-06-04 14:52:49 HiveExt: [Information] Method: 201 Params: 1:[0,[7418.2,2761.56,0.002]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:34919:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,100]:0:0:Rocker3_DZ:0:
+2013-06-04 14:52:49 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:52:49 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 14:52:49 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:52:53 HiveExt: [Information] Method: 101 Params: 67325382:1:Stunner:
+2013-06-04 14:52:53 HiveExt: [Information] Created a new player 67325382 named 'Stunner'
+2013-06-04 14:52:53 HiveExt: [Information] Created a new character 2 for player 'Stunner' (67325382)
+2013-06-04 14:52:53 HiveExt: [Information] Result: ["PASS",true,"2",[],[],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[0,0,0],"",0.96]
+2013-06-04 14:52:54 HiveExt: [Information] Method: 102 Params: 2:
+2013-06-04 14:52:54 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0],[0,0,0,0],["","aidlpercmstpsnonwnondnon_player_idlesteady04",36],[],2500]
+2013-06-04 14:53:08 HiveExt: [Information] Method: 201 Params: 1:[268,[7394.24,2775.49,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:28:0:[,amovpercmrunsnonwnondfr,36]:0:0::0:
+2013-06-04 14:53:08 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:11 HiveExt: [Information] Method: 201 Params: 2:[0,[995.162,1852.72,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:31003:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,100]:0:0:Policeman_DZ:0:
+2013-06-04 14:53:11 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:13 HiveExt: [Information] Method: 103 Params: 67325382:2:0:
+2013-06-04 14:53:13 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:25 HiveExt: [Information] Method: 201 Params: 1:[256,[7329.74,2763.25,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:66:0:[,amovpercmrunsnonwnondf,36]:0:0::0:
+2013-06-04 14:53:25 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:28 HiveExt: [Information] Method: 201 Params: 2:[14,[998.72,1881.45,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:29:0:[,amovpercmevasnonwnondf,36]:0:0::0:
+2013-06-04 14:53:28 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:42 HiveExt: [Information] Method: 201 Params: 2:[13,[1034.43,1941.71,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:70:0:[,amovpercmevasnonwnondf,36]:0:0::0:
+2013-06-04 14:53:42 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:50 HiveExt: [Information] Method: 201 Params: 1:[259,[7261.29,2747.7,9.966e-04]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[25.44,14.097]]:false:false:0:0:70:1:[,amovpercmrunsnonwnondfl,37]:0:0::0:
+2013-06-04 14:53:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:53:56 HiveExt: [Information] Method: 201 Params: 2:[279,[1035.65,1947.28,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[26.04,14.383]]:false:false:0:0:6:1:[,aidlpercmstpsnonwnondnon_player,36]:0:0::0:
+2013-06-04 14:53:56 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:05 HiveExt: [Information] Method: 201 Params: 1:[266,[7192.76,2736.45,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[25.44,14.097]]:false:false:0:0:69:0:[,amovpercmrunsnonwnondf,37]:0:0::0:
+2013-06-04 14:54:05 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:10 HiveExt: [Information] Method: 201 Params: 2:[19,[1051.87,1992.9,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[26.04,14.383]]:false:false:0:0:48:0:[,aidlpercmstpsnonwnondnon_player_idlesteady04,37]:0:0::0:
+2013-06-04 14:54:10 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:21 HiveExt: [Information] Method: 201 Params: 1:[262,[7143.63,2725.71,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[55.68,30.88]]:false:false:0:0:51:0:[,amovpercmrunsnonwnondf,37]:0:0::0:
+2013-06-04 14:54:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:25 HiveExt: [Information] Method: 201 Params: 2:[21,[1052.97,1996.04,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[39.78,22.682]]:false:false:0:0:3:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,37]:0:0::0:
+2013-06-04 14:54:25 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:37 HiveExt: [Information] Method: 201 Params: 1:[143,[7102.23,2695.48,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[55.68,30.88]]:false:false:0:0:51:1:[,amovpercmstpsnonwnondnon,38]:0:0::0:
+2013-06-04 14:54:37 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:39 HiveExt: [Information] Method: 201 Params: 2:[21,[1068.73,2049.2,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[39.78,22.682]]:false:false:0:0:55:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,37]:0:0::0:
+2013-06-04 14:54:39 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:53 HiveExt: [Information] Method: 201 Params: 1:[163,[7101.62,2696.99,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[79.12,44.402]]:false:false:0:0:2:0:[,aidlpercmstpsnonwnondnon_player_idlesteady02,38]:0:0::0:
+2013-06-04 14:54:53 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:54:53 HiveExt: [Information] Method: 201 Params: 2:[3,[1073.01,2132.93,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[53.45,37.474]]:false:false:0:0:84:0:[,amovpercmevasnonwnondf,37]:0:0::0:
+2013-06-04 14:54:53 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:04 HiveExt: [Information] Method: 201 Params: 1:[145,[7098.6,2691.4,0.001]]:[[MeleeFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[79.12,44.402]]:false:false:0:0:6:0:[,amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_1,38]:0:0::0:
+2013-06-04 14:55:04 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:08 HiveExt: [Information] Method: 201 Params: 2:[3,[1093.82,2210.98,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[53.45,37.474]]:false:false:0:0:81:1:[,amovpercmstpsnonwnondnon,38]:0:0::0:
+2013-06-04 14:55:08 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:18 HiveExt: [Information] Method: 201 Params: 1:[142,[7117.23,2667.16,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[79.12,44.402]]:false:false:0:0:31:0:[MeleeFlashlight,amovpercmrunsraswpstdf,38]:0:0::0:
+2013-06-04 14:55:18 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:22 HiveExt: [Information] Method: 201 Params: 2:[51,[1138.85,2240.73,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[69.62,55.734]]:false:false:0:0:54:0:[,amovpercmevasnonwnondf,38]:0:0::0:
+2013-06-04 14:55:22 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:33 HiveExt: [Information] Method: 201 Params: 1:[94,[7128.47,2646.91,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[85.84,52.837]]:false:false:0:0:23:1:[MeleeFlashlight,amovpercmstpsraswpstdnon,38]:0:0::0:
+2013-06-04 14:55:33 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:36 HiveExt: [Information] Method: 201 Params: 2:[292,[1186.73,2238.23,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[69.62,55.734]]:false:false:0:0:48:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,38]:0:0::0:
+2013-06-04 14:55:36 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:48 HiveExt: [Information] Method: 201 Params: 1:[301,[7122.12,2654.64,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[85.84,52.837]]:false:false:0:0:10:0:[MeleeFlashlight,amovpercmrunsraswpstdf,38]:0:0::0:
+2013-06-04 14:55:48 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:50 HiveExt: [Information] Method: 201 Params: 1:[301,[7118.61,2660.79,0.001]]:[[MeleeFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[85.84,52.837]]:false:false:0:0:7:0:[MeleeFlashlight,amovpercmrunsraswpstdf,38]:0:0::0:
+2013-06-04 14:55:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:50 HiveExt: [Information] Method: 201 Params: 1:[301,[7118.61,2660.79,0.001]]:[[MeleeFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[85.84,52.837]]:false:false:0:0:0:0:[MeleeFlashlight,amovpercmrunsraswpstdf,38]:0:0::0:
+2013-06-04 14:55:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:55:51 HiveExt: [Information] Method: 201 Params: 2:[107,[1180.12,2243.15,2.043]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[69.62,55.734]]:false:false:0:0:9:0:[,amovpercmevasnonwnondf,38]:0:0::0:
+2013-06-04 14:55:51 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:05 HiveExt: [Information] Method: 201 Params: 2:[336,[1195.36,2249.13,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[81.19,69.419]]:false:false:0:0:16:1:[RH_anac,amovpercmevasraswpstdfr,38]:0:0::0:
+2013-06-04 14:56:05 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:06 HiveExt: [Information] Method: 201 Params: 1:[306,[7112.08,2669.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[90.86,59.56]]:false:false:0:0:10:0:[MeleeFlashlight,aidlpercmstpsraswpstdnon_player_idlesteady01,38]:0:0::0:
+2013-06-04 14:56:06 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:19 HiveExt: [Information] Method: 201 Params: 2:[317,[1207.11,2274.63,2.065]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[81.19,69.419]]:false:false:0:0:28:0:[RH_anac,amovpercmrunsraswpstdr,39]:0:0::0:
+2013-06-04 14:56:19 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:20 HiveExt: [Information] Method: 201 Params: 1:[306,[7112.08,2669.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[90.86,59.56]]:false:false:0:0:0:0:[MeleeFlashlight,aidlpercmstpsraswpstdnon_player_idlesteady02,38]:0:0::0:
+2013-06-04 14:56:20 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:33 HiveExt: [Information] Method: 201 Params: 2:[355,[1210.68,2278.69,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[91.56,82.074]]:false:false:0:0:6:0:[RH_anac,amovpercmstpsraswpstdnon,39]:0:0::0:
+2013-06-04 14:56:33 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:35 HiveExt: [Information] Method: 201 Params: 1:[306,[7112.08,2669.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[92.78,63.006]]:false:false:0:0:0:1:[MeleeFlashlight,aidlpercmstpsraswpstdnon_player_idlesteady01,38]:0:0::0:
+2013-06-04 14:56:35 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:47 HiveExt: [Information] Method: 201 Params: 2:[10,[1213.68,2324.18,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[91.56,82.074]]:false:false:0:0:46:0:[RH_anac,amovpercmevasraswpstdf,40]:0:0::0:
+2013-06-04 14:56:47 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:56:50 HiveExt: [Information] Method: 201 Params: 1:[306,[7112.08,2669.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[92.78,63.006]]:false:false:0:0:0:0:[MeleeFlashlight,aidlpercmstpsraswpstdnon_player_idlesteady01,38]:0:0::0:
+2013-06-04 14:56:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:02 HiveExt: [Information] Method: 201 Params: 2:[45,[1221.79,2384.17,0.076]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[105.03,98.398]]:false:false:0:0:61:1:[RH_anac,amovpercmrunsraswpstdfr,40]:0:0::0:
+2013-06-04 14:57:02 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:06 HiveExt: [Information] Method: 201 Params: 1:[317,[7105.98,2678.74,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[92.78,63.006]]:false:false:0:0:11:0:[MeleeFlashlight,amovpercmwlksraswpstdf,39]:0:0::0:
+2013-06-04 14:57:06 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:16 HiveExt: [Information] Method: 201 Params: 2:[2,[1220.28,2390.09,0.065]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[105.03,98.398]]:false:false:0:0:6:0:[RH_anac,amovpercmrunsraswpstdf,40]:0:0::0:
+2013-06-04 14:57:16 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:23 HiveExt: [Information] Method: 201 Params: 1:[70,[7086.42,2702.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:30:0:[MeleeFlashlight,amovpercmevasraswpstdfr,39]:0:0::0:
+2013-06-04 14:57:23 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:31 HiveExt: [Information] Method: 201 Params: 2:[327,[1234.12,2416.56,0.079]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[105.03,98.398]]:false:false:0:0:30:0:[RH_anac,amovpercmevasraswpstdfr,41]:0:0::0:
+2013-06-04 14:57:31 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:37 HiveExt: [Information] Method: 201 Params: 1:[331,[7134.37,2713.29,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:49:1:[MeleeFlashlight,aidlpercmstpsraswpstdnon_player_idlesteady03,39]:0:0::0:
+2013-06-04 14:57:37 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:37 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 14:57:37 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:43 HiveExt: [Information] Method: 201 Params: 2:[122,[1228.81,2406.05,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[116.15,112.365]]:false:false:0:0:12:0:[RH_anac,aidlpercmstpsraswpstdnon_player_idlesteady02,41]:0:0::0:
+2013-06-04 14:57:43 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 14:57:43 HiveExt: [Information] Method: 103 Params: 67325382:2:2:
+2013-06-04 14:57:43 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:02:56 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:02:56 HiveExt: [Information] Result: ["PASS",false,"1",[331,[7134.37,2713.29,0.001]],[["UZI_EP1","30Rnd_9x19_UZI","30Rnd_9x19_UZI"],["ItemPainkiller","ItemBandage"]],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[9,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:02:57 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 15:02:57 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]],[0,0,0,0],["MeleeFlashlight","aidlpercmstpsraswpstdnon_player_idlesteady03",39],[331,[7134.37,2713.29,0.001]],2500]
+2013-06-04 15:03:18 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 15:03:18 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:03:27 HiveExt: [Information] Method: 201 Params: 1:[334,[7114.87,2705.09,0.001]]:[[UZI_EP1],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:34710:0:[UZI_EP1,amovpknlmrunsraswpstdfr,39]:0:0:Rocker3_DZ:0:
+2013-06-04 15:03:27 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:03:29 HiveExt: [Information] Method: 201 Params: 1:[334,[7114.88,2705.32,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:0:0:[UZI_EP1,aidlpknlmstpsraswpstdnon_player_idlesteady03,39]:0:0::0:
+2013-06-04 15:03:29 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:03:29 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 15:03:29 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:04:49 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:04:49 HiveExt: [Warning] Invalid Inventory for CharacterID(1): [["UZI_EP1","30Rnd_9x19_UZI","30Rnd_9x19_UZI","rh_m16a1"],["ItemPainkiller","ItemBandage","30Rnd_556x45_Stanag]]
+2013-06-04 15:04:49 HiveExt: [Information] Result: ["PASS",false,"1",[334,[7114.88,2705.32,0.001]],[],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[11,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:04:49 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 15:04:49 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]],[0,0,0,0],["UZI_EP1","aidlpknlmstpsraswpstdnon_player_idlesteady03",39],[334,[7114.88,2705.32,0.001]],2500]
+2013-06-04 15:05:09 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 15:05:09 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:05:15 HiveExt: [Information] Method: 201 Params: 1:[99,[7114.99,2705.26,0.001]]:[[ItemFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:34709:0:[,amovpknlmwlksnonwnondfr,39]:0:0:Rocker3_DZ:0:
+2013-06-04 15:05:15 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:05:17 HiveExt: [Information] Method: 201 Params: 1:[37,[7115.26,2705.4,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:0:0:[,aidlpknlmstpsnonwnondnon_player_idlesteady03,39]:0:0::0:
+2013-06-04 15:05:17 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:05:17 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 15:05:17 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:06:29 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:06:29 HiveExt: [Information] Result: ["PASS",false,"1",[37,[7115.26,2705.4,0.001]],[["rh_M16a3"],["ItemFlashlight"],["30Rnd_556x45_Stanag","ItemBandage"]],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[13,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:06:29 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 15:06:29 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]],[0,0,0,0],["","aidlpknlmstpsnonwnondnon_player_idlesteady03",39],[37,[7115.26,2705.4,0.001]],2500]
+2013-06-04 15:06:49 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 15:06:49 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:06:55 HiveExt: [Information] Method: 201 Params: 1:[359,[7115.47,2705.56,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:34710:0:[RH_M16a3,amovpknlmstpslowwrfldnon_amovpknlmstpsraswrfldnon,39]:0:0:Rocker3_DZ:0:
+2013-06-04 15:06:55 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:06:57 HiveExt: [Information] Method: 201 Params: 1:[358,[7115.47,2705.56,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:0:0:[RH_M16a3,amovpknlmstpsraswrfldnon,39]:0:0::0:
+2013-06-04 15:06:57 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:06:57 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 15:06:57 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:08:02 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:08:02 HiveExt: [Information] Result: ["PASS",false,"1",[358,[7115.47,2705.56,0.001]],[["melee_machete","ItemHatchet"],["ItemFlashlight"],["30Rnd_556x45_Stanag","ItemBandage"]],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[14,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:08:02 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 15:08:02 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]],[0,0,0,0],["RH_M16a3","amovpknlmstpsraswrfldnon",39],[358,[7115.47,2705.56,0.001]],2500]
+2013-06-04 15:08:21 HiveExt: [Information] Method: 201 Params: 1:[358,[7115.47,2705.56,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:34710:0:[,amovpercmstpsnonwnondnon_zevl,100]:0:0:Rocker3_DZ:0:
+2013-06-04 15:08:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:08:21 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 15:08:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:08:27 HiveExt: [Information] Method: 201 Params: 1:[358,[7115.41,2705.4,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:0:0:[,amovpercmstpsnonwnondnon_amovpercmstpsraswrfldnon,39]:0:0::0:
+2013-06-04 15:08:27 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:08:40 HiveExt: [Information] Method: 201 Params: 1:[322,[7096.17,2704.33,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[96.4,68.319]]:false:false:0:0:19:0:[MeleeHatchet,amovpercmstpsraswrfldnon,39]:0:0::0:
+2013-06-04 15:08:40 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:08:53 HiveExt: [Information] Method: 201 Params: 1:[55,[7082.09,2723.84,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:1:1:24:0:[MeleeHatchet,amovpknlmwlksraswrfldfl,39]:0:0::0:
+2013-06-04 15:08:53 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:09:05 HiveExt: [Information] Method: 201 Params: 1:[1,[7082.75,2723.21,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:1:1:[MeleeHatchet,ainvpknlmstpslaywrfldnon_1,39]:0:0::0:
+2013-06-04 15:09:05 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:09:18 HiveExt: [Information] Method: 201 Params: 1:[1,[7090.97,2731.18,0.35]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:11:0:[MeleeHatchet,amovpknlmrunsraswrfldfr,39]:0:0::0:
+2013-06-04 15:09:18 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:09:21 HiveExt: [Information] Method: 201 Params: 1:[360,[7091.76,2732.49,0.354]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:2:0:[MeleeHatchet,amovpknlmstpsraswrfldnon,39]:0:0::0:
+2013-06-04 15:09:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:09:21 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 15:09:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:27:36 HiveExt: [Information] HiveExt 0.9.8.2 [DayZ Server Controlcenter]
+2013-06-04 15:27:36 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 15:27:36 Database: [Information] Connected to MySQL database 127.0.0.1:3306/dayz_chernarus client ver: 6.0.0 server ver: 5.5.25a
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["ObjectStreamStart",206,"e5cd77eed5e7bd6f020572d22ffa3119"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","1","350z_black","0",[2,[6114.161,6638.917,9.155e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","2","350z_blue","0",[0,[6080.607,5245.324,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","3","350z_city","0",[0,[5908.954,3897.06,6.104e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","4","350z_mod","0",[0,[11277.121,6591.589,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","5","350z_gold","0",[0,[7014.343,3073.974,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","6","350z_green","0",[0,[7007.342,2774.465,-4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","7","350z_pink","0",[0,[5293.218,8669.233,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","8","350z_kiwi","0",[0,[10344.022,1961.476,1.068e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","9","350z","0",[0,[7545.314,6277.868,-7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","10","350z_red","0",[0,[7705.237,5705.449,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","11","350z_ruben","0",[0,[8976.031,7093.593,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","12","350z_silver","0",[0,[10125.62,7076.603,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","13","350z_v","0",[0,[9365.177,10339.259,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","14","350z_white","0",[0,[6611.248,2952.511,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","15","350z_yellow","0",[0,[5223.335,3730.423,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","16","f1car","0",[0,[8176.003,6064.789,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","17","TPS_octavia_policeEU","0",[0,[6775.431,3073.909,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","18","kpfs_golf_bl","0",[0,[2533.596,6217.514,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","19","kpfs_golf_post","0",[0,[6037.789,10294.385,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","20","kpfs_golf_g","0",[0,[3117.726,7987.725,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","21","kpfs_golf_p","0",[0,[6323.829,6164.094,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","22","kpfs_golf_tk","0",[0,[3000.406,7593.605,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","23","kpfs_golf_y","0",[0,[5938.001,5588.919,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","24","VWGolf","0",[0,[4480.331,4609.507,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","25","HMMWV_DES_EP1","0",[0,[6317.331,6311.505,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","26","HMMWV_M2","0",[0,[6487.758,2823.482,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","27","HMMWV_M998_crows_M2_DES_EP1","0",[0,[10483.229,2469.215,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","28","Lada1_TK_CIV_EP1","0",[0,[9013.835,4362.233,7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","29","Lada5_GDR","0",[0,[1850.355,2236.901,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","30","Lada2_TK_CIV_EP1","0",[0,[1766.417,3563.957,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","31","Lada3_GDR","0",[0,[10508.413,9755.323,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","32","LadaMP","0",[0,[9038.038,8748.492,-6.104e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","33","LadaVP","0",[0,[7536.92,5022.244,1.221e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","34","LadaSP","0",[0,[12118.647,9366.778,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","35","Lada2_GDR","0",[0,[11739.137,9199.051,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","36","Lada4_GDR","0",[0,[12704.429,9436.693,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","37","LandRover_MG_TK_INS_EP1","0",[0,[3713.709,2494.768,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","38","LandRover_Special_CZ_EP1","0",[0,[1730.652,3847.942,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","39","M1030_US_DES_EP1","0",[0,[6850.896,3055.188,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","40","TT650_TK_EP1","0",[0,[3473.309,2375.692,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","41","TT650_Gue","0",[0,[8091.891,3112.771,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","42","TT650_Ins","0",[0,[5203.218,4159.923,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","43","TT650_Civ","0",[0,[7019.942,2788.39,7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","44","MTVR","0",[0,[7570.035,4593.243,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","45","Offroad_DSHKM_TK_GUE_EP1","0",[0,[12861.412,8683.949,-4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","46","Old_bike_TK_CIV_EP1","0",[0,[6834.2,2964.36,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","47","Post_bike_E","0",[0,[12519.997,9405.19,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","48","Post_bike_W","0",[0,[6839.579,2995.371,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","49","Old_bike_TK_INS_EP1","0",[0,[6496.307,2971.524,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","50","car_hatchback","0",[0,[11976.764,8655.956,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","51","Pickup_PK_INS","0",[0,[7366.523,2746.996,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","52","Pickup_PK_GUE","0",[0,[12324.61,9590.297,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","53","Policecar","0",[0,[7582.421,3162.692,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","54","S1203_TK_CIV_EP1","0",[0,[12394.284,8867.914,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","55","car_sedan","0",[0,[5553.668,5066.017,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","56","TPS_octavia_civil","0",[0,[5844.923,2154.61,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","57","TPS_octavia_civil_blue","0",[0,[12225.816,9459.728,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","58","TPS_octavia_civil_gold","0",[0,[12761.458,9830.034,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","59","TPS_octavia_civil_green","0",[0,[10541.487,2723.741,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","60","TPS_octavia_civil_silver","0",[0,[5932.953,2429.687,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","61","TPS_octavia_civil_white","0",[0,[9881.246,2027.999,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","62","SUV_Blue","0",[0,[8872.587,6521.128,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","63","SUV_Charcoal","0",[0,[10945.227,7581.368,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","64","SUV_Green","0",[0,[9312.486,9164.278,7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","65","SUV_Orange","0",[0,[10749.519,8116.724,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","66","SUV_Pink","0",[0,[8625.017,2592.151,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","67","SUV_Red","0",[0,[4368.093,5805.794,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","68","SUV_Silver","0",[0,[7757.351,4798.52,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","69","SUV_White","0",[0,[9489.379,8182.06,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","70","SUV_Yellow","0",[0,[9571.698,6603.684,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","71","TowingTractor","0",[0,[4874.072,7866.318,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","72","UAZ_MG_CDF","0",[0,[6102.575,7774.293,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","73","LadaLM","0",[0,[6715.938,5728.455,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","74","Lada2","0",[0,[8282.847,4877.07,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","75","Kamaz","0",[0,[9728.734,11020.661,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","76","KamazOpen","0",[0,[12350.067,3532.698,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","77","Ural_CDF","0",[0,[7017.227,7659.239,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","78","Ural_INS","0",[0,[6667.162,5376.715,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","79","UralCivil2","0",[0,[4589.526,6400.976,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","80","UralCivil","0",[0,[5898.101,7881.629,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","81","UralOpen_INS","0",[0,[4778.594,6766.818,9.155e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","82","R34_black","0",[0,[9300.253,2047.898,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","83","R34_blue","0",[0,[6319.374,7615.714,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","84","R34_policecar","0",[0,[5084.36,6740.905,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","85","R34_red","0",[0,[7406.456,5794.091,7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","86","R34_yellow","0",[0,[11133.212,6624.138,-4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","87","An2_2_TK_CIV_EP1","0",[-58,[5219.941,2223.146,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","88","BAF_Merlin_HC3_D","0",[0,[1940.113,9132.776,6.104e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","89","MH60S","0",[0,[6874.298,11432.363,9.155e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","90","CH_47F_EP1","0",[0,[7088.214,8477.155,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","91","Ka137_PMC","0",[0,[11042.623,7010.037,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","92","Mi17_Civilian","0",[106,[6532.818,5600.023,1.068e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","93","kyo_microlight_blue","0",[124,[12410.937,12593.578,-4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","94","kyo_microlight_military","0",[125,[4575.952,10216.254,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","95","kyo_microlight","0",[119,[7792.586,5126.794,4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","96","kyo_microlight_yellow","0",[126,[6733.231,5920.563,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","97","MV22","0",[106,[8577.754,9239.483,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","98","UH1H_DZ","0",[106,[13706.609,2933.523,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","99","kyo_ultralight","0",[106,[4603.1,10438.683,-4.578e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","100","qin_evoix_black","0",[0,[7511.371,3176.689,-1.831e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","101","qin_evoix_blue","0",[0,[3884.954,8876.38,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","102","qin_evoix_gray","0",[0,[7890.431,3346.234,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","103","qin_evoix_orange","0",[0,[4410.897,6412.615,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","104","qin_evoix_red","0",[0,[4869.816,6275.262,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","105","luf_c130","0",[326,[4793.736,9808.522,3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","106","can_c130","0",[325,[4830.48,9750.081,-1.526e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","107","airnz_C130","0",[323,[4863.656,9703.219,-6.104e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","108","qantas_C130","0",[328,[4765.85,9851.011,-1.526e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","109","Da_kart","0",[0,[8566.94,6790.355,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","110","Da_kart","0",[0,[10331.3,5085.435,1.068e-04]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","111","Da_kart","0",[0,[5689.889,3049.04,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","112","Da_kart","0",[0,[12399.468,3551.05,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","113","Da_kart","0",[0,[8638.415,4503.71,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","114","Da_kart","0",[0,[6081.227,3644.362,-7.629e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","115","f1car","0",[0,[8558.603,10266.275,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","116","f1car","0",[0,[6447.809,3747.209,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","117","f1car","0",[0,[12602.82,9482.009,-6.104e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","118","f1car","0",[0,[10011.31,5966.014,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","119","f1car","0",[0,[4986.676,2370.2,-3.052e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","120","f1car","0",[0,[10680.48,2489.459,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","121","CSJ_GyroP","0",[112,[7609.127,5040.569,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","122","CSJ_GyroPboat","0",[109,[7657.468,5089.92,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","123","CSJ_GyroCover","0",[123,[8659.587,6344.828,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","124","CSJ_GyroC","0",[114,[7649.045,5039.717,9.155e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","125","ice_apo_pack1","0",[0,[12040.198,12605.475,0.057]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","126","ice_apo_pack2","0",[0,[12041.986,12605.255,0.057]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","127","ice_apo_pack3","0",[0,[12043.023,12605.381,0.057]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","128","ice_apo_pack4","0",[0,[12044.315,12605.146,0.057]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","129","USBasicBag","0",[0,[12045.255,12604.832,0.057]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","130","IMG_Jetski","0",[0,[13651.782,8899.409,4.649e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","131","IMG_Jetski","0",[0,[13682.838,4751.824,4.277e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","132","IMG_Jetski","0",[0,[12608.327,2926.39,-4.232e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","133","IMG_Jetski","0",[0,[11248.106,2678.031,-6.944e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","134","IMG_Jetski","0",[0,[10141.306,1686.358,-1.073e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","135","IMG_Jetski","0",[0,[10225.676,1696.901,4.694e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","136","IMG_Jetski","0",[0,[10061.154,1722.204,2.027e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","137","IMG_Jetski","0",[0,[7799.328,2707.46,-5.022e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","138","IMG_Jetski","0",[0,[7027.09,2230.035,-3.427e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","139","IMG_Jetski","0",[0,[7011.583,2261.405,2.491e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","140","IMG_Jetski","0",[0,[4967.854,1749.268,2.086e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","141","IMG_Jetski","0",[0,[4053.408,1837.376,-4.128e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","142","IMG_Jetski","0",[0,[3486.011,1391.321,-7.018e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","143","GNTFSF","0",[0,[7367.152,2359.583,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","144","Land_Fregata","0",[-14,[7088.369,2076.396,-0.012]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","145","sigisolda1","0",[76,[7443.244,1975.805,0.135]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","146","sigisolda5","0",[173,[7947.634,1909.832,0.089]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","147","smallboat_2","0",[0,[7616.893,2461.904,-0.014]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","148","RHIB","0",[0,[7541.505,2461.967,-0.035]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","149","RHIB2Turret","0",[0,[7601.699,2516.878,0.016]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","150","PBX","0",[-152,[8571.547,2276.019,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","151","PBX","0",[-152,[15442.939,13286.639,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","152","PBX","0",[-152,[14294.525,13222.859,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","153","PBX","0",[-152,[10297.322,3706.151,2.536]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","154","PBX","0",[-152,[10294.462,3678.766,2.536]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","155","PBX","0",[-152,[10283.775,3693.061,2.536]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","156","sigisolda5","0",[0,[10758.22,1725.323,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","157","JFH_USCG_RHIB","0",[0,[10260.75,1729.938,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","158","JFH_USCG_RHIB","0",[0,[10234.608,1737.842,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","159","JFH_USCG_RHIB","0",[0,[10204.44,1730.714,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","160","JFH_USCG_RHIB","0",[0,[3882.578,2101.878,-1.341e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","161","JFH_USCG_RHIB","0",[0,[1566.718,1813.714,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","162","JFH_USCG_RHIB","0",[0,[1278.456,2126.299,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","163","JFH_USCG_ZODIAC","0",[0,[2081.036,2109.254,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","164","JFH_USCG_ZODIAC","0",[-87,[3968.703,2262.666,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","165","JFH_USCG_ZODIAC","0",[0,[7130.46,2332.246,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","166","JFH_USCG_ZODIAC","0",[0,[7090.385,2292.184,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","167","JFH_USCG_ZODIAC","0",[0,[6993.359,2273.207,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","168","JFH_USCG_ZODIAC","0",[0,[10168.12,1720.084,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","169","JFH_USCG_ZODIAC","0",[0,[10066.361,1717.663,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","170","JFH_USCG_ZODIAC","0",[0,[10026.788,1689.405,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","171","JFH_USCG_ZODIAC","0",[0,[10116.434,1717.663,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","172","JFH_USCG_ZODIAC","0",[0,[11760.784,2684.117,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","173","JFH_USCG_ZODIAC","0",[0,[11440.12,2952.691,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","174","JFH_USCG_ZODIAC","0",[0,[12735.777,3095.642,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","175","JFH_USCG_ZODIAC","0",[0,[12523.446,2796.745,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","176","JFH_USCG_ZODIAC","0",[0,[11578.786,2190.287,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","177","JFH_USCG_ZODIAC","0",[0,[11050.124,1913.047,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","178","JFH_USCG_ZODIAC","0",[0,[10703.459,1891.389,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","179","JFH_USCG_ZODIAC","0",[0,[14339.1,4871.7,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","180","JFH_USCG_ZODIAC","0",[0,[13849.438,5590.786,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","181","JFH_USCG_ZODIAC","0",[0,[13767.104,5976.32,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","182","JFH_USCG_ZODIAC","0",[0,[13858.104,6513.469,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","183","JFH_USCG_ZODIAC","0",[0,[13845.103,6699.738,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","184","AS_jail","0",[-158,[12094.806,12625.431,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","185","RPO_objBox1","0",[0,[12060.2,12609.676,0]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","186","CSJ_GyroCfloat","0",[0,[13520.578,10538.28,-5.364e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","187","CSJ_GyroCfloat","0",[0,[13400.352,10599.427,-6.855e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","188","CSJ_GyroCfloat","0",[0,[13334.964,10439.178,5.484e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","189","CSJ_GyroCfloat","0",[0,[13221.065,10342.186,5.96e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","190","CSJ_GyroCfloat","0",[0,[13237.939,10186.153,2.891e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","191","CSJ_GyroCfloat","0",[0,[13254.813,10162.96,-4.798e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","192","CSJ_GyroCfloat","0",[0,[13045.998,9804.51,6.348e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","193","CSJ_GyroCfloat","0",[0,[13035.452,9726.494,6.512e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","194","CSJ_GyroCfloat","0",[0,[12864.486,3597.779,1.711e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","195","CSJ_GyroCfloat","0",[0,[12773.226,3506.549,-2.363e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","196","CSJ_GyroCfloat","0",[0,[12252.315,3432.275,-6.527e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","197","CSJ_GyroPboat","0",[0,[8156.485,2751.893,5.089e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","198","CSJ_GyroPboat","0",[0,[7613.973,3006.229,-2.138e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","199","CSJ_GyroPboat","0",[0,[7804.788,3054.852,-7.123e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","200","CSJ_GyroPboat","0",[0,[5376.578,1878.557,-4.739e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","201","CSJ_GyroPboat","0",[0,[4822.841,1968.32,1.58e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","202","CSJ_GyroPboat","0",[0,[4280.328,2140.371,1.371e-06]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","203","CSJ_GyroPboat","0",[0,[4141.894,2263.798,2.682e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","204","CSJ_GyroPboat","0",[0,[3874.379,2157.202,3.725e-07]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","207","land_OWP_CB_b1","0",[-154,[11935.563,12669.051,-1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:27:37 HiveExt: [Information] Method: 302 Params: 1:
+2013-06-04 15:27:37 HiveExt: [Information] Result: ["OBJ","211","RPO_objBox1","0",[1,[12046.43,12604.976,1.526e-05]],[],[],1.0,0.0,"0"]
+2013-06-04 15:28:31 HiveExt: [Information] Method: 307 Params: 
+2013-06-04 15:28:31 HiveExt: [Information] Result: ["PASS",[2013,6,4,15,28]]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 186:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 187:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 188:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 191:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 193:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:29:44 HiveExt: [Information] Method: 306 Params: 192:[]:1:
+2013-06-04 15:29:44 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:47 HiveExt: [Information] Method: 306 Params: 190:[]:1:
+2013-06-04 15:30:47 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:47 HiveExt: [Information] Method: 306 Params: 195:[]:1:
+2013-06-04 15:30:47 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:48 HiveExt: [Information] Method: 306 Params: 194:[]:1:
+2013-06-04 15:30:48 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:49 HiveExt: [Information] Method: 103 Params: 121875654:any:2:
+2013-06-04 15:30:49 HiveExt: [Error] Error executing |CHILD:103:121875654:any:2:|
+2013-06-04 15:30:49 HiveExt: [Information] Method: 101 Params: 121875654:1:Error:No unit:
+2013-06-04 15:30:49 HiveExt: [Information] Changed name of player 121875654 from 'Nipple Breath' to 'Error'
+2013-06-04 15:30:49 HiveExt: [Information] Result: ["PASS",false,"1",[360,[7091.76,2732.49,0.354]],[["melee_machete","ItemHatchet"],["ItemFlashlight"],["30Rnd_556x45_Stanag","ItemBandage"]],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[16,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 197:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 199:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 200:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 201:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 202:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 198:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:30:50 HiveExt: [Information] Method: 306 Params: 204:[]:1:
+2013-06-04 15:30:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:31:09 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:31:09 HiveExt: [Information] Changed name of player 121875654 from 'Error' to 'Nipple Breath'
+2013-06-04 15:31:09 HiveExt: [Information] Result: ["PASS",false,"1",[360,[7091.76,2732.49,0.354]],[["melee_machete","ItemHatchet"],["ItemFlashlight"],["30Rnd_556x45_Stanag","ItemBandage"]],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[38,0,0],"Rocker3_DZ",0.96]
+2013-06-04 15:31:09 HiveExt: [Information] Method: 102 Params: 1:
+2013-06-04 15:31:09 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]],[1,1,0,0],["MeleeHatchet","amovpknlmstpsraswrfldnon",39],[360,[7091.76,2732.49,0.354]],2500]
+2013-06-04 15:31:32 HiveExt: [Information] Method: 201 Params: 1:[0,[7091.76,2732.49,0.354]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:34694:0:[,aidlpercmstpsnonwnondnon_player_idlesteady02,100]:0:0:Rocker3_DZ:0:
+2013-06-04 15:31:32 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:31:32 HiveExt: [Information] Method: 103 Params: 121875654:1:0:
+2013-06-04 15:31:32 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:31:50 HiveExt: [Information] Method: 201 Params: 1:[278,[7086.4,2732.46,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:5:0:[,amovpknlmrunsnonwnondfr,39]:0:0::0:
+2013-06-04 15:31:50 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:07 HiveExt: [Information] Method: 201 Params: 1:[335,[7073.06,2762.65,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:33:0:[,amovpknlmrunsnonwnondfr,39]:0:0::0:
+2013-06-04 15:32:07 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:09 HiveExt: [Information] Method: 201 Params: 1:[292,[7070.87,2769.71,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:7:0:[,amovpknlmstpsnonwnondnon,39]:0:0::0:
+2013-06-04 15:32:09 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:09 HiveExt: [Information] Method: 201 Params: 1:[292,[7070.87,2769.71,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[106.42,80.18]]:false:false:0:0:0:0:[,amovpknlmstpsnonwnondnon,39]:0:0::0:
+2013-06-04 15:32:09 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:22 HiveExt: [Information] Method: 201 Params: 1:[288,[7063.23,2772.42,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[116,88.933]]:false:false:0:0:8:1:[,amovpknlmrunsnonwnondf,39]:0:0::0:
+2013-06-04 15:32:22 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:36 HiveExt: [Information] Method: 201 Params: 1:[244,[7023.64,2789.01,0.001]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[116,88.933]]:false:false:0:0:43:0:[,aidlpercmstpsnonwnondnon_player_idlesteady04,39]:0:0::0:
+2013-06-04 15:32:36 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:36 HiveExt: [Information] Method: 303 Params: 43:[[[],[]],[[],[]],[[],[]]]:
+2013-06-04 15:32:36 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:48 HiveExt: [Information] Method: 201 Params: 1:[122,[7025.72,2789.09,0.109]]:[]:[]:[false,false,false,true,true,false,true,11182.3,[aimpoint],[0.085,0],0,[124.874,99.582]]:false:false:0:0:2:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,39]:0:0::0:
+2013-06-04 15:32:48 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:53 HiveExt: [Information] Method: 201 Params: 1:[122,[7025.72,2789.09,0.109]]:[]:[]:[false,false,false,true,true,false,true,9428.19,[aimpoint],[0.476,0],0,[124.874,99.582]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,40]:0:0::0:
+2013-06-04 15:32:53 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:32:53 HiveExt: [Information] Method: 201 Params: 1:[122,[7025.72,2789.09,0.109]]:[]:[]:[false,false,false,true,true,false,true,9428.19,[aimpoint],[0.476,0],0,[124.874,99.582]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady03,40]:0:0::0:
+2013-06-04 15:32:53 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:33:05 HiveExt: [Information] Method: 201 Params: 1:[122,[7025.72,2789.09,0.109]]:[]:[]:[false,false,false,true,true,false,true,6519.67,[aimpoint],[0.733,0],0,[124.874,99.582]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady04,40]:0:0::0:
+2013-06-04 15:33:05 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:33:18 HiveExt: [Information] Method: 201 Params: 1:[122,[7025.72,2789.09,0.109]]:[]:[]:[false,true,false,true,true,false,true,1571.84,[aimpoint,neck],[0.939,0],29,[124.874,99.582]]:false:false:0:0:0:1:[,,40]:0:0::0:
+2013-06-04 15:33:18 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:33:20 HiveExt: [Information] Method: 202 Params: 1:0:
+2013-06-04 15:33:20 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:33:28 HiveExt: [Information] Method: 103 Params: 121875654:1:2:
+2013-06-04 15:33:28 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:33:58 HiveExt: [Information] Method: 101 Params: 121875654:1:Nipple Breath:
+2013-06-04 15:33:58 HiveExt: [Information] Created a new character 3 for player 'Nipple Breath' (121875654)
+2013-06-04 15:33:58 HiveExt: [Information] Result: ["PASS",false,"3",[],[],["DZ_Patrol_Pack_EP1",[[],[]],[[],[]]],[0,0,0],"",0.96]
+2013-06-04 15:33:58 HiveExt: [Information] Method: 102 Params: 3:
+2013-06-04 15:33:58 HiveExt: [Information] Result: ["PASS",[false,false,false,false,false,false,false,12000,[],[0,0],0],[0,0,0,0],["","aidlpercmstpsnonwnondnon_player_idlesteady04",36],[],2500]
+2013-06-04 15:34:03 HiveExt: [Information] Method: 201 Params: 3:[0,[13472.7,5272.68,0.002]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:38240:0:[,amovpercmstpsnonwnondnon_zevl,100]:0:0:Policeman_DZ:0:
+2013-06-04 15:34:03 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:05 HiveExt: [Information] Method: 103 Params: 121875654:3:0:
+2013-06-04 15:34:05 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:15 HiveExt: [Information] Method: 201 Params: 3:[315,[13469,5270.77,0.002]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:4:0:[,aidlpercmstpsnonwnondnon_player_idlesteady04,36]:0:0::0:
+2013-06-04 15:34:15 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:21 HiveExt: [Information] Method: 201 Params: 3:[289,[13469.1,5270.98,0.002]]:[[ItemFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady01,36]:0:0::0:
+2013-06-04 15:34:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:21 HiveExt: [Information] Method: 201 Params: 3:[289,[13469.1,5270.98,0.002]]:[[ItemFlashlight],[ItemPainkiller,ItemBandage]]:[DZ_Patrol_Pack_EP1,[[],[]],[[],[]]]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady01,36]:0:0::0:
+2013-06-04 15:34:21 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:23 HiveExt: [Information] Method: 201 Params: 3:[310,[13469.1,5270.98,0.002]]:[]:[]:[false,false,false,false,false,false,false,12000,[],[0,0],0,[0,0]]:false:false:0:0:0:0:[,aidlpercmstpsnonwnondnon_player_idlesteady01,36]:0:0::0:
+2013-06-04 15:34:23 HiveExt: [Information] Result: ["PASS"]
+2013-06-04 15:34:23 HiveExt: [Information] Method: 103 Params: 121875654:3:2:
+2013-06-04 15:34:23 HiveExt: [Information] Result: ["PASS"]

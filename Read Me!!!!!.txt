@@ -1,0 +1,8 @@
+For the Server PBo go to  @dayzcc\addons\dayz_server.pbo
+mission file is dayz_1.chernarus. For DayZ CC just put the folder in your MPMission lcoated in your arma 2 operation arrowhead folder
+@dayzcc_config contains the files for server name ect.. just edit it to your liking in the control center
+
+I TAKE NO CREDIT FOR THE ADDONS USED IN THIS MOD. IF I FORGOT TO ASK PERMISSION AND YOU, THE ADDON MAKER, DO NOT WANT YOUR MOD IN MY MOD, 
+LET ME KNOW AND IT WILL BE TAKEN OUT UPON REQUEST.
+
+CREDITS: TO ALL THE ADDON MAKERS <3
