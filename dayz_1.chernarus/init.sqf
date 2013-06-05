@@ -16,8 +16,8 @@ player setVariable ["BIS_noCoreConversations", true]; 	// Disable greeting menu
 
 // Compile and call important functions
 //Load in compiled functions
-//yum//call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)
-call compile preprocessFileLineNumbers "fixes\variables.sqf";  //YUM
+call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)
+//call compile preprocessFileLineNumbers "fixes\variables.sqf";  //YUM
 progressLoadingScreen 0.1;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\publicEH.sqf";				//Initilize the publicVariable event handlers
 progressLoadingScreen 0.2;
