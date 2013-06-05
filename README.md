@@ -1,6 +1,9 @@
 DayZ-Civilian-Server-Files
 ==========================
 ALL SERVER OWNERS MUST CONTACT ME ON SKYPE NICK.CHOW3  THIS IS NECESSARY BECAUSE THE MOD IS IN ALPAHA
+
+
+
 For the Server PBo go to  @dayzcc\addons\dayz_server.pbo
 mission file is dayz_1.chernarus. For DayZ CC just put the folder in your MPMission lcoated in your arma 2 operation arrowhead folder
 @dayzcc_config contains the files for server name ect.. just edit it to your liking in the control center
