@@ -8569,6 +8569,7 @@ class Mission
 			side="EMPTY";
 			vehicle="MH60S";
 			skill=0.60000002;
+			presence=0;
 		};
 		class Item607
 		{
