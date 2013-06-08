@@ -17,7 +17,7 @@ player setVariable ["BIS_noCoreConversations", true]; 	// Disable greeting menu
 // Compile and call important functions
 //Load in compiled functions
 //yum//call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)
-call compile preprocessFileLineNumbers "z\addons\dayz_code\init\variables.sqf";  //YUM
+call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";  //YUM
 progressLoadingScreen 0.1;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\publicEH.sqf";				//Initilize the publicVariable event handlers
 progressLoadingScreen 0.2;
@@ -65,7 +65,7 @@ if (!isDedicated) then {
 	
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death; _nul = [] execVM "addin\plrInit.sqf";}];
 	//dayZ original _id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
-	_playerMonitor = 	[] execVM "z\addons\dayz_code\player_monitor.sqf";
+	_playerMonitor = 	[] execVM "\z\addons\dayz_code\player_monitor.sqf";
 	_nul = [] execVM "addin\plrInit.sqf";
 		
 
