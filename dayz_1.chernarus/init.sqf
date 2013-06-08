@@ -16,8 +16,8 @@ player setVariable ["BIS_noCoreConversations", true]; 	// Disable greeting menu
 
 // Compile and call important functions
 //Load in compiled functions
-call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)
-//call compile preprocessFileLineNumbers "fixes\variables.sqf";  //YUM
+//yum//call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\variables.sqf";				//Initilize the Variables (IMPORTANT: Must happen very early)
+call compile preprocessFileLineNumbers "z\addons\dayz_code\init\variables.sqf";  //YUM
 progressLoadingScreen 0.1;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\publicEH.sqf";				//Initilize the publicVariable event handlers
 progressLoadingScreen 0.2;
@@ -29,7 +29,7 @@ call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf"; 
 //building_spawnZombies = compile preprocessFileLineNumbers "fixes\building_spawnZombies.sqf";     //building_spawnZombies.sqf (spawn zeds)
 //control_zombieAgent = compile preprocessFileLineNumbers "fixes\control_zombieAgent.sqf";         //control_zombieAgent.sqf (zed AI - not sure this does anything)
 //player_spawnCheck = compile preprocessFileLineNumbers "fixes\player_spawnCheck.sqf";             //player_spawnCheck.sqf (spawns zeds)
-//player_zombieCheck = compile preprocessFileLineNumbers "fixes\player_zombieCheck.sqf";           //player_zombieCheck.sqf (zombie distance target, needs work)
+player_zombieCheck = compile preprocessFileLineNumbers "fixes\player_zombieCheck.sqf";           //player_zombieCheck.sqf (zombie distance target, needs work)
 //player_zombieAttack = compile preprocessFileLineNumbers "fixes\player_zombieAttack.sqf";         //player_zombieAttack.sqf (zombie damage)
 //zombie_findOwner = compile preprocessFileLineNumbers "fixes\zombie_findOwner.sqf";               //zombie_findOwner.sqf (serverside despawn)
 //end
@@ -65,7 +65,7 @@ if (!isDedicated) then {
 	
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death; _nul = [] execVM "addin\plrInit.sqf";}];
 	//dayZ original _id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
-	_playerMonitor = 	[] execVM "player_monitor.sqf";
+	_playerMonitor = 	[] execVM "z\addons\dayz_code\player_monitor.sqf";
 	_nul = [] execVM "addin\plrInit.sqf";
 		
 
