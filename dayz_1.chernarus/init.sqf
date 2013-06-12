@@ -65,7 +65,7 @@ if (!isDedicated) then {
 	
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death; _nul = [] execVM "addin\plrInit.sqf";}];
 	//dayZ original _id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
-	_playerMonitor = 	[] execVM "\z\addons\dayz_code\player_monitor.sqf";
+	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";
 	_nul = [] execVM "addin\plrInit.sqf";
 		
 
