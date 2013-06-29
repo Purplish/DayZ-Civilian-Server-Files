@@ -29,7 +29,7 @@ call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf"; 
 //building_spawnZombies = compile preprocessFileLineNumbers "fixes\building_spawnZombies.sqf";     //building_spawnZombies.sqf (spawn zeds)
 //control_zombieAgent = compile preprocessFileLineNumbers "fixes\control_zombieAgent.sqf";         //control_zombieAgent.sqf (zed AI - not sure this does anything)
 //player_spawnCheck = compile preprocessFileLineNumbers "fixes\player_spawnCheck.sqf";             //player_spawnCheck.sqf (spawns zeds)
-player_zombieCheck = compile preprocessFileLineNumbers "fixes\player_zombieCheck.sqf";           //player_zombieCheck.sqf (zombie distance target, needs work)
+//player_zombieCheck = compile preprocessFileLineNumbers "fixes\player_zombieCheck.sqf";           //player_zombieCheck.sqf (zombie distance target, needs work)
 //player_zombieAttack = compile preprocessFileLineNumbers "fixes\player_zombieAttack.sqf";         //player_zombieAttack.sqf (zombie damage)
 //zombie_findOwner = compile preprocessFileLineNumbers "fixes\zombie_findOwner.sqf";               //zombie_findOwner.sqf (serverside despawn)
 //end
@@ -41,7 +41,7 @@ setToneMapping "Filmic";
 playerstats = compile preprocessFileLineNumbers "debug\playerstats.sqf";
 // Run the server monitor
 if (isServer) then {
-	dogOwner = [];
+	//dogOwner = [];
 	_serverMonitor = [] execVM "\z\addons\dayz_server\system\server_monitor.sqf";
 };
 
@@ -66,7 +66,7 @@ if (!isDedicated) then {
 	_id = player addEventHandler ["Respawn", {_id = [] spawn player_death; _nul = [] execVM "addin\plrInit.sqf";}];
 	//dayZ original _id = player addEventHandler ["Respawn", {_id = [] spawn player_death;}];
 	_playerMonitor = 	[] execVM "\z\addons\dayz_code\system\player_monitor.sqf";
-	_nul = [] execVM "addin\plrInit.sqf";
+	//_nul = [] execVM "addin\plrInit.sqf";
 		
 
 };
