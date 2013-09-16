@@ -1,0 +1,1 @@
+player exec "additions\exect.sqf";
